@@ -36,9 +36,6 @@ import java.util.*;
 
 // api key: RbY0qXPLrFzKjwZHf28oBaet7JOpAixG
 
-/**
- * Created by mfahrner on 10/3/16.
- */
 @Controller
 public class FootballTrashTalkerController {
 
