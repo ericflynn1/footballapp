@@ -2,9 +2,6 @@ package com.theironyard.charlotte.entities;
 
 import javax.persistence.*;
 
-/**
- * Created by mfahrner on 10/4/16.
- */
 @Entity
 @Table(name = "users")
 public class User {
