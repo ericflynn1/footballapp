@@ -6,9 +6,6 @@ import javax.persistence.*;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by mfahrner on 10/10/16.
- */
 @Entity
 @Table(name = "schedule")
 @JsonIgnoreProperties(ignoreUnknown = true)
