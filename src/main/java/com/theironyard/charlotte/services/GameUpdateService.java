@@ -20,9 +20,6 @@ import java.util.List;
 import java.util.Map;
 import java.util.concurrent.Future;
 
-/**
- * Created by mfahrner on 10/12/16.
- */
 @Service
 public class GameUpdateService {
     private final RestTemplate restTemplate;
