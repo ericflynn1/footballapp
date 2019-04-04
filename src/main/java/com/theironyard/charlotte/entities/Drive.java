@@ -4,9 +4,6 @@ import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
 import java.util.ArrayList;
 
-/**
- * Created by mfahrner on 10/10/16.
- */
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class Drive {
 
