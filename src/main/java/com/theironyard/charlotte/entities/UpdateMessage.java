@@ -2,9 +2,6 @@ package com.theironyard.charlotte.entities;
 
 import java.util.Collection;
 
-/**
- * Created by mfahrner on 10/16/16.
- */
 public class UpdateMessage implements Sendable {
 
     int homeScore;
