@@ -11,9 +11,6 @@ import java.util.Calendar;
 import java.util.Date;
 import java.util.List;
 
-/**
- * Created by mfahrner on 10/9/16.
- */
 @Component
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class Game {
