@@ -1,9 +1,5 @@
 package com.theironyard.charlotte.entities;
 
-/**
- * Created by mfahrner on 10/4/16.
- */
-
 public class Message {
 
     public enum MessageType {
