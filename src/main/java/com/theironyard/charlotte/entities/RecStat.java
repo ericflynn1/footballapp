@@ -2,9 +2,6 @@ package com.theironyard.charlotte.entities;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
-/**
- * Created by mfahrner on 10/10/16.
- */
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class RecStat {
 
