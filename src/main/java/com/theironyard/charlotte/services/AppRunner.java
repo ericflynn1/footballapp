@@ -6,9 +6,6 @@ import org.springframework.stereotype.Component;
 
 import java.util.concurrent.Future;
 
-/**
- * Created by mfahrner on 10/13/16.
- */
 @Component
 public class AppRunner implements CommandLineRunner {
 
