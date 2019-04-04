@@ -2,9 +2,6 @@ package com.theironyard.charlotte.entities;
 
 import java.util.Collection;
 
-/**
- * Created by mfahrner on 10/19/16.
- */
 public class StatMessage implements Sendable {
 
     Collection<PassStat> homePassStats;
